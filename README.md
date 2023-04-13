@@ -1,5 +1,5 @@
 # NIC Number Reader
-This is a simple web application that allows users to enter their National Identity Card (NIC) number and retrieve their date of birth, gender, and age. The application is built using HTML, CSS, and JavaScript.
+This is a simple web application that allows users to enter their National Identity Card (NIC) number and retrieve their date of birth, gender, and age. The form currently only supports the old format of NIC numbers, but it provides a simple and user-friendly interface for obtaining this information. The code uses JavaScript and the Date object to perform the necessary calculations, and it can easily be integrated into other web applications.
 
 ## How to Use
 - Clone the repository to your local machine.
